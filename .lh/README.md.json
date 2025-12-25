@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1766668676194,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1766668676194,
+            "name": "Commit-0",
+            "content": "# HTML & CSS Template — Professional Starter ✅\r\n\r\n**A lightweight, responsive HTML & CSS starter template** for building simple static sites, landing pages, or prototypes. Clean structure, normalized styles, and an opinionated `style.css` to help you get started quickly.\r\n\r\n---\r\n\r\n## 🚀 Quick Start\r\n\r\n1. Clone the repository:\r\n\r\n```bash\r\ngit clone <your-repo-url>\r\ncd HTML_And_CSS_Template1\r\n```\r\n\r\n2. Preview locally:\r\n\r\n- Open `index.html` in your browser, or\r\n- Start a simple local server:\r\n\r\n```bash\r\n# Python 3\r\npython -m http.server 8000\r\n# then open http://localhost:8000\r\n```\r\n\r\n- (Optional) Use the **Live Server** extension in VS Code for live reload.\r\n\r\n> Tip: If you plan to deploy, any static host (Netlify, GitHub Pages, Vercel) will work out of the box.\r\n\r\n---\r\n\r\n## ✨ Features\r\n\r\n- Minimal, production-ready CSS with `normalize.css` included\r\n- Modular `style.css` for easy customization\r\n- Includes `all.min.css` for utility classes (if used)\r\n- Organized folders for `images` and `webfonts`\r\n- Works in modern browsers (Chrome, Edge, Firefox, Safari)\r\n\r\n---\r\n\r\n## 📁 Project Structure\r\n\r\n```\r\nindex.html\r\nREADME.md\r\nCSS/\r\n  all.min.css\r\n  normalize.css\r\n  style.css\r\nimages/\r\nwebfonts/\r\n```\r\n\r\n---\r\n\r\n## 🔧 Customization\r\n\r\n- Colors, spacing, and typography are centralized in `CSS/style.css` — adjust variables and base styles to fit your design system.\r\n- To add custom fonts, place them in `webfonts/` and update the `@font-face` rules in `style.css`.\r\n- Replace placeholder images in `images/` with your assets; keep aspect ratios consistent for best results.\r\n\r\n> Note: If `all.min.css` contains a utility framework, check its docs before overriding utilities.\r\n\r\n---\r\n\r\n## ✅ Accessibility & Best Practices\r\n\r\n- Use semantic HTML elements (header, main, nav, footer)\r\n- Provide descriptive `alt` attributes for images\r\n- Ensure sufficient color contrast for readability\r\n\r\n---\r\n\r\n## 🤝 Contributing\r\n\r\nContributions are welcome. Suggested workflow:\r\n\r\n1. Fork the repo\r\n2. Create a feature branch: `git checkout -b feature/your-change`\r\n3. Commit and push\r\n4. Open a Pull Request with a clear description\r\n\r\nPlease keep changes small and focused.\r\n\r\n---\r\n\r\n## 📝 License\r\n\r\nThis template is provided under the **MIT License** — see the `LICENSE` file or add one to your repo if you want to keep this license. Replace as needed.\r\n\r\n---\r\n\r\n## ✉️ Contact & Credits\r\n\r\n- Maintainer: _Your Name_ (replace in this file)\r\n- Credits: `normalize.css` and any libraries included in `CSS/`. Replace or remove attributions as your project evolves.\r\n\r\n---\r\n\r\nIf you'd like, I can also add a `LICENSE` file, a screenshot in `images/`, or a short contributing guide — tell me which you'd prefer. 💡\r\n"
+        }
+    ]
+}
